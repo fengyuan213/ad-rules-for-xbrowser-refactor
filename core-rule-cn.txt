@@ -3,9 +3,9 @@
 ! Home: https://github.com/examplecode/ad-rules-for-xbrowser
 
 # start of official
-/ad/
+
 /adimages/
-/ads/
+#/ads/
 /ads/media/images/
 /adserver/
 /advert/
